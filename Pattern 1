@@ -11,11 +11,10 @@ public class Pattern_1 {
 }
 
 /*output:
- 
+
   	* * * * * 
   	* * * * * 
   	* * * * * 
   	* * * * * 
   	* * * * * 
- 
  */
